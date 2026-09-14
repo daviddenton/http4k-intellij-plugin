@@ -1,12 +1,11 @@
 [versions]
-forkhandles-bom = "2.22.5.0"
-http4k-bom = "5.47.0.0"
-intellij-idea = "2025.3"
-intellij-platform = "2.10.5"
-kotlin = "2.3.0"
+forkhandles-bom = "3.0.0.0"
+http4k-bom = "6.59.0.0"
+intellij-platform = "2.19.0"
+kotlin = "2.4.20"
 swingx = "1.6.1"
-version-catalog-update = "1.0.1"
-versions = "0.53.0"
+version-catalog-update = "1.1.1"
+versions = "0.62.0"
 
 [libraries]
 forkhandles-bom = { module = "dev.forkhandles:forkhandles-bom", version.ref = "forkhandles-bom" }
